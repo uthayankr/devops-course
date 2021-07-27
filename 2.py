@@ -1,1 +1,1 @@
-print("Hello, welcome to devops course")
+ print("Hello, welcome")
